@@ -105,7 +105,7 @@ Contributions welcome! Please read CONTRIBUTING.md before submitting PRs.
 
 For issues or questions:
 - Open a GitHub Issue
-- Contact: [Your Email/Discord]
+- Contact: [notrivu@gmail.com/@notrivu.exe]
 
 ---
 
